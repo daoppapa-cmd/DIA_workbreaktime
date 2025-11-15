@@ -234,7 +234,7 @@ const backgroundStyles = {
 // =================================================================
 const translations = {
   km: {
-    appTitle: 'កត់ត្រាម៉ោងសម្រាក',
+    appTitle: 'B-កត់ត្រាម៉ោងសម្រាក',
     searchPlaceholder: 'ស្វែងរកអត្តលេខ/ឈ្មោះ',
     studentNotFound: 'រកមិនឃើញនិស្សិត...',
     photoOf: 'រូបថតរបស់',
@@ -326,7 +326,7 @@ const translations = {
     paginationPage: 'ទំព័រ', // !! ថ្មី !!
   },
   en: {
-    appTitle: 'Break Time Tracker',
+    appTitle: 'B-Break Time Tracker',
     searchPlaceholder: 'Search ID/Name',
     studentNotFound: 'Student not found...',
     photoOf: "Photo of",
